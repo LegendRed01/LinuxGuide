@@ -6,7 +6,15 @@ body {
     font: 100% system-ui;
     margin: 0;
 }
+.highlight{
+    color: hsl(0, 0%, 93%);
+    background: hsl(225, 6%, 13%);
+    font: 100% system-ui;
+    margin: 0;
+}
 </style>
+
+
 <h1>Hello</h1>
 You can use the [editor on GitHub](https://github.com/LegendRed01/LinuxGuide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
