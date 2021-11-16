@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 <style>
-h1 {
- color:green; 
+body {
+ background-color:green; 
  } 
 </style>
 <h1>Hello</h1>
